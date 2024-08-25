@@ -7,7 +7,10 @@ build/
 
 /.idea
 /.out
-*.class 
+*.class
+/.com
+/.company
+/.udemy
 
 ### STS ###
 .apt_generated
