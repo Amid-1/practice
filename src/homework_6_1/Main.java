@@ -18,6 +18,6 @@ public class Main {
         cardAccount.deposit(500);
         cardAccount.withdraw(200);
         System.out.println("Остаток на карточном счёте: " + cardAccount.getBalance());
-    
+
     }
 }
