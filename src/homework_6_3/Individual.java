@@ -1,5 +1,6 @@
 package homework_6_3;
 
+// Физические лица
 public class Individual extends Client {
 
     public Individual(double balance) {
